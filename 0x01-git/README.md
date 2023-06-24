@@ -1,2 +1,1 @@
-Readme for git
-Second Readme
+second readme
